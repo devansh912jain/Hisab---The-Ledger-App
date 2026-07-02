@@ -1,0 +1,6 @@
+{
+  "name": "Hisaab",
+  "description": "A small-business payment management system application, helping micro and small businesses maintain ledger accounts for easy access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
